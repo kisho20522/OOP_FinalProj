@@ -1,4 +1,4 @@
-## CS0070L Final Project
+## CS0070L - Object Oriented Programming Final Project
 
 Library Management System
 
