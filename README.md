@@ -2,5 +2,5 @@
 
 Library Management System
 
-2nd Year 1st Sem
+Create a Library Management System using Java and with the implementation of sqlite to store book borrower details in a database
 
